@@ -1,0 +1,31 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: blue;
+}
+
+#container {
+  display: flex;
+  align-items: center;
+  height: 30px;
+  background: white;
+  margin-top: 25%;
+}
+
+#search-input {
+  height: 30px;
+  width: 0px;
+}
+
+.width {
+  width: 200px !important;
+}
+
+.search-icon {
+  cursor: pointer;
+}
+
+/* .hide {
+  display: none;
+} */
