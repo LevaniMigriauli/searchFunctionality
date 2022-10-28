@@ -16,6 +16,8 @@ body {
 #search-input {
   height: 30px;
   width: 0px;
+  outline: none;
+  border: none;
 }
 
 .width {
